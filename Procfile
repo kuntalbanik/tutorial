@@ -1,1 +1,1 @@
-web: gunicorn profiles_project.wsgi
+web: gunicorn tutorial.wsgi
